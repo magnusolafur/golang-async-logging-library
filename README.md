@@ -12,3 +12,6 @@ To run the tests
     * e.g. `go test -run MessageChannel` will run the first test of the first module
 * all tests for a given module can be run by passing the module identifier to the `-run` command
     * e.g. `go test -v -run Module1`
+
+EDIT
+DEBUG
